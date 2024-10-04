@@ -14,7 +14,7 @@ const LandingPage = ({ data, scrollToNextSection }) => {
     ];
 
     return (
-    <div className='main_div'>
+    <div className='main_div' style={{backgroundImage: `url(${firstt}), linear-gradient(112.45deg, #8481FF 0%, #2EF1FD 48.5%, #0430A1 100%)`}}>
         <div className="landingpage">
             <div className="navbar">
                 <div className="compname">
@@ -55,9 +55,6 @@ const LandingPage = ({ data, scrollToNextSection }) => {
                 <div className="scroll-arrow"></div>
                 <span className="scroll-text">Scroll Down</span>
             </div>
-        </div>
-        <div className='image_div'>
-            <img src={firstt} alt={cart}/>
         </div> 
     </div>
     

@@ -15,7 +15,9 @@ export const CrystalData ={
         "More":[
             { id: 7, Name: "CRYSTAL AGATE PHONEGRIP", Price: "18.99$", Photo: mobile },
             { id: 8, Name: "CRYSTAL AGATE PHONEGRIP", Price: "18.99$", Photo: mobile },
-            { id: 9, Name: "CRYSTAL AGATE PHONEGRIP", Price: "18.99$", Photo: mobile }
+            { id: 9, Name: "CRYSTAL AGATE PHONEGRIP", Price: "18.99$", Photo: mobile },
+            { id: 10, Name: "CRYSTAL AGATE PHONEGRIP", Price: "18.99$", Photo: mobile },
+            { id: 11, Name: "CRYSTAL AGATE PHONEGRIP", Price: "18.99$", Photo: mobile }
         ]
     }
     
